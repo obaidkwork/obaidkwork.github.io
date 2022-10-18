@@ -1,0 +1,16 @@
+﻿.nav-title {
+    color: white !important;
+    opacity: 100% !important;
+}
+
+.underline {
+    text-decoration: underline !important;
+}
+
+.footer-name {
+    cursor: pointer;
+}
+
+.footer-name:hover {
+    color: #0084ff !important;
+}
